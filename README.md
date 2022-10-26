@@ -1,1 +1,1 @@
-![practice PCB screenshot](/PCB_Practice.png)
+![practice PCB screenshot](/practiceboard_cost)
